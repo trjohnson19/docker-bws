@@ -1,4 +1,4 @@
-FROM alpine:3.19 as builder
+FROM alpine:3.20 as builder
 
 ARG BWS_VERSION
 
